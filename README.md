@@ -1,1 +1,1 @@
-# dinarcoin
+# BitNet Coin
