@@ -1,0 +1,9 @@
+Building BitNetCoin
+
+See doc/readme-qt.rst for instructions on building BitNetCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BitNetCoin.
+
+See doc/build-*.txt for instructions on building bitnetcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of BitNetCoin.
