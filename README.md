@@ -4,7 +4,7 @@ BitNetCoin integration/staging tree
 http://www.bitnetcoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 BitNetCoin Developers
+Copyright (c) 2019-2021 BitNetCoin Developers
 
 What is BitNetCoin?
 ----------------
